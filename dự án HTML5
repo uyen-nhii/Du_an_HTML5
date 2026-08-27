@@ -1,1 +1,80 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Du lịch Việt Nam</title>
+</head>
 
+<body>
+
+    <header>
+        <h1>Khám phá vẻ đẹp Việt Nam</h1>
+        <p>Những điểm đến nổi bật dành cho du khách</p>
+    </header>
+
+    <main>
+
+        <h2>Địa điểm du lịch nổi bật</h2>
+
+        <ul>
+            <li>Hà Nội</li>
+            <li>Đà Nẵng</li>
+            <li>Đà Lạt</li>
+        </ul>
+
+        <section>
+            <h2>1. Hà Nội</h2>
+
+            <img src="hanoi.jpg"
+                 alt="Hồ Hoàn Kiếm tại Hà Nội"
+                 width="400">
+
+            <p>
+                Hà Nội là thủ đô của Việt Nam, nổi tiếng với Hồ Hoàn Kiếm,
+                phố cổ và nhiều công trình lịch sử, văn hóa.
+            </p>
+        </section>
+
+        <section>
+            <h2>2. Đà Nẵng</h2>
+
+            <img src="danang.jpg"
+                 alt="Cầu Rồng Đà Nẵng"
+                 width="400">
+
+            <p>
+                Đà Nẵng là thành phố biển hiện đại, nổi tiếng với những
+                bãi biển đẹp, Cầu Rồng và nhiều điểm tham quan hấp dẫn.
+            </p>
+        </section>
+
+        <section>
+            <h2>3. Đà Lạt</h2>
+
+            <img src="dalat.jpg"
+                 alt="Phong cảnh thành phố Đà Lạt"
+                 width="400">
+
+            <p>
+                Đà Lạt nổi tiếng với khí hậu mát mẻ, những đồi thông,
+                hồ nước và nhiều địa điểm check-in đẹp.
+            </p>
+        </section>
+
+        <section>
+            <h2>Tìm hiểu thêm</h2>
+
+            <p>
+                Bạn có thể tìm hiểu thêm thông tin du lịch Việt Nam tại:
+            </p>
+
+            <a href="https://vietnam.travel/" target="_blank">
+                Vietnam Travel
+            </a>
+        </section>
+
+    </main>
+
+</body>
+</html>
